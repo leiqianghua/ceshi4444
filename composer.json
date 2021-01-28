@@ -1,0 +1,13 @@
+{
+    "name": "leiqianghua/ceshi4444",
+    "license": "BSD-3-Clause",
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "leiqianghua\\ceshi4444\\": ""
+        }
+    },
+    "require": {
+        "leiqianghua/ceshi3333": "dev-master"
+    }  
+}
